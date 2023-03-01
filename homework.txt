@@ -1,3 +1,14 @@
 При сравнении GIT показывает, что в ветке "demo" есть коммиты, которые отсутствуют в "master":
 'heat added', 'boots', 'dots', 'Merge branch buttons into demo', 'Merge branch boots into release'
 И наоборот, в ветке "master" присутствует коммит, которого нет в "demo", а именно: 'fix readme'
+История коммитов, которую я вижу:
+a3e8416 (HEAD -> master, student/master) Merge branch 'boots_buttons'
+79821ee Merge remote-tracking branch 'origin/hat'
+73ce5c6 (boots_buttons) Merge remote-tracking branch 'origin/buttons' into boots_buttons
+1e1294b Merge remote-tracking branch 'origin/boots' into boots_buttons
+df455a7 (origin/master, origin/HEAD) fix readme
+1db7b7a (origin/buttons) dots
+079fa1b README added
+152f859 (origin/boots) boots
+949c4a1 (origin/hat) heat added
+7d5cd9d init
