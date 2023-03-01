@@ -1,0 +1,3 @@
+При сравнении GIT показывает, что в ветке "demo" есть коммиты, которые отсутствуют в "master":
+'heat added', 'boots', 'dots', 'Merge branch buttons into demo', 'Merge branch boots into release'
+И наоборот, в ветке "master" присутствует коммит, которого нет в "demo", а именно: 'fix readme'
